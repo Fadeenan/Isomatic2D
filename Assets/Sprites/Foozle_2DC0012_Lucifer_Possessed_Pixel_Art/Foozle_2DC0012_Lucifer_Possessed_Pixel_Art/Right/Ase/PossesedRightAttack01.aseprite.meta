@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 9b0bd880975353146b03a6aa9a6e9344
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: PossesedRightAttack01_Frame_0
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 113
+      width: 13
+      height: 30
+    spriteID: 44804e3fde5fc694ba643d61ec33d6a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 113}
+  - name: PossesedRightAttack01_Frame_1
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.20689656}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 27
+      height: 29
+    spriteID: 96153a9c83cff214cb1f6ab8ea2ae61a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 42}
+  - name: PossesedRightAttack01_Frame_2
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 116
+      width: 27
+      height: 28
+    spriteID: 09019d59dfa08f342b0f759c2efb3da8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 116}
+  - name: PossesedRightAttack01_Frame_3
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 152
+      width: 27
+      height: 28
+    spriteID: 5cd3f2919c41f9e4f8fb69d0394b3d06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 152}
+  - name: PossesedRightAttack01_Frame_4
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 188
+      width: 27
+      height: 28
+    spriteID: 03037cbb856bb8d418c53311480710b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 188}
+  - name: PossesedRightAttack01_Frame_5
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.20689656}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 79
+      width: 27
+      height: 29
+    spriteID: a8b944cdea5d33d4f85d17547c759e34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 79}
+  - name: PossesedRightAttack01_Frame_6
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 224
+      width: 27
+      height: 28
+    spriteID: dbddcbedf517ca743a0cd0d3adaf1e54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 224}
+  - name: PossesedRightAttack01_Frame_7
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 4
+      width: 27
+      height: 28
+    spriteID: 93d0b9eabb37b1541862f9d7eb162fb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 4}
+  - name: PossesedRightAttack01_Frame_8
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 40
+      width: 27
+      height: 28
+    spriteID: 4d76b93eb5588624bbee53ea249e521b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 40}
+  - name: PossesedRightAttack01_Frame_9
+    originalName: 
+    pivot: {x: 0.3846154, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 39
+      height: 30
+    spriteID: 033d316d5fae447448015cb092a11cb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: PossesedRightAttack01_Frame_10
+    originalName: 
+    pivot: {x: 0.07692306, y: -0.2413793}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 76
+      width: 26
+      height: 29
+    spriteID: fbe5060681e18664a983c40d0d7d4f08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 76}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -6046959
+    name: PossesedRightAttack01
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: PossesedRightAttack01_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 17
+        y: 6
+        width: 13
+        height: 30
+      spriteId: 44804e3fde5fc694ba643d61ec33d6a5
+    - name: PossesedRightAttack01_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 3
+        y: 6
+        width: 27
+        height: 29
+      spriteId: 96153a9c83cff214cb1f6ab8ea2ae61a
+    - name: PossesedRightAttack01_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 3
+        y: 6
+        width: 27
+        height: 28
+      spriteId: 09019d59dfa08f342b0f759c2efb3da8
+    - name: PossesedRightAttack01_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 3
+        y: 6
+        width: 27
+        height: 28
+      spriteId: 5cd3f2919c41f9e4f8fb69d0394b3d06
+    - name: PossesedRightAttack01_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 3
+        y: 6
+        width: 27
+        height: 28
+      spriteId: 03037cbb856bb8d418c53311480710b6
+    - name: PossesedRightAttack01_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 3
+        y: 6
+        width: 27
+        height: 29
+      spriteId: a8b944cdea5d33d4f85d17547c759e34
+    - name: PossesedRightAttack01_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 3
+        y: 6
+        width: 27
+        height: 28
+      spriteId: dbddcbedf517ca743a0cd0d3adaf1e54
+    - name: PossesedRightAttack01_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 3
+        y: 6
+        width: 27
+        height: 28
+      spriteId: 93d0b9eabb37b1541862f9d7eb162fb7
+    - name: PossesedRightAttack01_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 3
+        y: 6
+        width: 27
+        height: 28
+      spriteId: 4d76b93eb5588624bbee53ea249e521b
+    - name: PossesedRightAttack01_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 9
+        y: 7
+        width: 39
+        height: 30
+      spriteId: 033d316d5fae447448015cb092a11cb0
+    - name: PossesedRightAttack01_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 22
+        y: 7
+        width: 26
+        height: 29
+      spriteId: fbe5060681e18664a983c40d0d7d4f08
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 48}

@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: 69d7f5c37c6bdd2489f6206d28c5e6c4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: GoblinSlingerDownAttack01_Frame_0
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 21
+      height: 31
+    spriteID: 8c624ec17f12181458fd01afb5b5225f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: GoblinSlingerDownAttack01_Frame_1
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 43
+      width: 16
+      height: 31
+    spriteID: 5e57725c829d1be4e920271ac3929cc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 43}
+  - name: GoblinSlingerDownAttack01_Frame_2
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 121
+      width: 16
+      height: 30
+    spriteID: 2db7bea028fa3e14b8083e3db57366b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 121}
+  - name: GoblinSlingerDownAttack01_Frame_3
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 159
+      width: 16
+      height: 30
+    spriteID: 16827b2bd48e4f845b21af9cd7355f8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 159}
+  - name: GoblinSlingerDownAttack01_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 197
+      width: 16
+      height: 30
+    spriteID: 7fd17caefbe48444293acd04f73aa25b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 197}
+  - name: GoblinSlingerDownAttack01_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 82
+      width: 16
+      height: 31
+    spriteID: 838f9f2688bb7224eafe0f270276ef1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 82}
+  - name: GoblinSlingerDownAttack01_Frame_6
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 4
+      width: 16
+      height: 30
+    spriteID: a37f94f7babc7324f917bbeefd0b4a45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 4}
+  - name: GoblinSlingerDownAttack01_Frame_7
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 42
+      width: 16
+      height: 30
+    spriteID: 2d3088b834d92b84a87053f558e89ff7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 42}
+  - name: GoblinSlingerDownAttack01_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 80
+      width: 16
+      height: 30
+    spriteID: 96730b31b847b7b40998dda6af05862c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 80}
+  - name: GoblinSlingerDownAttack01_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 121
+      width: 16
+      height: 31
+    spriteID: f32a80fb9d57b6c4382d3d49a62649f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 121}
+  - name: GoblinSlingerDownAttack01_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 160
+      width: 16
+      height: 31
+    spriteID: bf0324ac72389fd4c965672dc7bbed9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 160}
+  - name: GoblinSlingerDownAttack01_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 199
+      width: 16
+      height: 31
+    spriteID: a810f930328668e46a1c5013730f6993
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 199}
+  - name: GoblinSlingerDownAttack01_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 118
+      width: 16
+      height: 30
+    spriteID: aa2bbc6cb40c1c149b4914c508b3237e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 118}
+  - name: GoblinSlingerDownAttack01_Frame_13
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 156
+      width: 16
+      height: 30
+    spriteID: 836b46bffa48b844b9e93b105a43a951
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 156}
+  - name: GoblinSlingerDownAttack01_Frame_14
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 57
+      y: 194
+      width: 16
+      height: 30
+    spriteID: b0461badb700b854d99c574a17043d1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 57, y: 194}
+  - name: GoblinSlingerDownAttack01_Frame_15
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 4
+      width: 16
+      height: 31
+    spriteID: a208f513a62b53a44be07af30dfe0ac3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 4}
+  - name: GoblinSlingerDownAttack01_Frame_16
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 43
+      width: 16
+      height: 31
+    spriteID: 42f6976752211cb4395577b742d3254f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 43}
+  - name: GoblinSlingerDownAttack01_Frame_17
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 82
+      width: 16
+      height: 31
+    spriteID: 9c3494e6cf60c454eb1202b86b57bd3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 82}
+  - name: GoblinSlingerDownAttack01_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 4
+      width: 16
+      height: 30
+    spriteID: 05615dc70e3274440814837d1624d540
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 4}
+  - name: GoblinSlingerDownAttack01_Frame_19
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 42
+      width: 16
+      height: 30
+    spriteID: 308cc2ad9318d934b9f332335365115f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 42}
+  - name: GoblinSlingerDownAttack01_Frame_20
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.23333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 81
+      y: 80
+      width: 16
+      height: 30
+    spriteID: 06e076172d014c943b6e5ef29d974607
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 81, y: 80}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -874168478
+    name: GoblinSlingerDownAttack01
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: GoblinSlingerDownAttack01_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 12
+        y: 7
+        width: 21
+        height: 31
+      spriteId: 8c624ec17f12181458fd01afb5b5225f
+    - name: GoblinSlingerDownAttack01_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 31
+      spriteId: 5e57725c829d1be4e920271ac3929cc0
+    - name: GoblinSlingerDownAttack01_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: 2db7bea028fa3e14b8083e3db57366b6
+    - name: GoblinSlingerDownAttack01_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: 16827b2bd48e4f845b21af9cd7355f8a
+    - name: GoblinSlingerDownAttack01_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: 7fd17caefbe48444293acd04f73aa25b
+    - name: GoblinSlingerDownAttack01_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 31
+      spriteId: 838f9f2688bb7224eafe0f270276ef1a
+    - name: GoblinSlingerDownAttack01_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: a37f94f7babc7324f917bbeefd0b4a45
+    - name: GoblinSlingerDownAttack01_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: 2d3088b834d92b84a87053f558e89ff7
+    - name: GoblinSlingerDownAttack01_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: 96730b31b847b7b40998dda6af05862c
+    - name: GoblinSlingerDownAttack01_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 31
+      spriteId: f32a80fb9d57b6c4382d3d49a62649f5
+    - name: GoblinSlingerDownAttack01_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 31
+      spriteId: bf0324ac72389fd4c965672dc7bbed9b
+    - name: GoblinSlingerDownAttack01_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 31
+      spriteId: a810f930328668e46a1c5013730f6993
+    - name: GoblinSlingerDownAttack01_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: aa2bbc6cb40c1c149b4914c508b3237e
+    - name: GoblinSlingerDownAttack01_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: 836b46bffa48b844b9e93b105a43a951
+    - name: GoblinSlingerDownAttack01_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: b0461badb700b854d99c574a17043d1e
+    - name: GoblinSlingerDownAttack01_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 31
+      spriteId: a208f513a62b53a44be07af30dfe0ac3
+    - name: GoblinSlingerDownAttack01_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 31
+      spriteId: 42f6976752211cb4395577b742d3254f
+    - name: GoblinSlingerDownAttack01_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 31
+      spriteId: 9c3494e6cf60c454eb1202b86b57bd3e
+    - name: GoblinSlingerDownAttack01_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: 05615dc70e3274440814837d1624d540
+    - name: GoblinSlingerDownAttack01_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: 308cc2ad9318d934b9f332335365115f
+    - name: GoblinSlingerDownAttack01_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 16
+        y: 7
+        width: 16
+        height: 30
+      spriteId: 06e076172d014c943b6e5ef29d974607
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 48}

@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - door
+  - key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 193577647
+    locked: 0
+  - name: Ground-D
+    uniqueID: 4208038477
+    locked: 0
+  - name: Ground-O
+    uniqueID: 3295391975
+    locked: 0
+  - name: Level1
+    uniqueID: 3018397247
+    locked: 0
+  - name: Level1-D
+    uniqueID: 847480103
+    locked: 0
+  - name: Level1-O
+    uniqueID: 1554477273
+    locked: 0
+  - name: Colider
+    uniqueID: 792977901
+    locked: 0
+  - name: Wall
+    uniqueID: 219791427
+    locked: 0
+  - name: Wall-D
+    uniqueID: 170287405
+    locked: 0
+  - name: Object
+    uniqueID: 2273623395
+    locked: 0
+  - name: Door
+    uniqueID: 4183138995
+    locked: 0
